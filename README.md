@@ -1,4 +1,4 @@
-## android-hello-world
+## android-hello-world by Nithiwat Seesillapachai (Ter)
 
 ### App Description
 My android pre-project app.
