@@ -4,7 +4,6 @@
 My android pre-project app.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/nithiwatter/android-hello-world/blob/master/myGif/myApp.gif" width=200><br>
 
